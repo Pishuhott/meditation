@@ -5,4 +5,4 @@
 
 **Description**
 
-Meditation application with a choice of sound and duration (2, 5, 10 minutes). A video screen saver is used as a background, which changes depending on the selected sound.
+Meditation app with choice of nature sound and duration (2, 5, 10 minutes). As a background, a video splash screen is used, which changes depending on the selected nature sound.
